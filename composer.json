@@ -1,0 +1,20 @@
+{
+    "minimum-stability": "dev",
+    "name": "michaeljoelphillips/br-phar-repro",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/michaeljoelphillips/better-reflection.git"
+        }
+    ],
+    "description": "\\",
+    "require": {
+        "roave/better-reflection": "dev-external-stubs-directory"
+    },
+    "authors": [
+        {
+            "name": "Michael Phillips",
+            "email": "michaeljoelphillips@gmail.com"
+        }
+    ]
+}
